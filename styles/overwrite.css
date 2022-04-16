@@ -1,0 +1,83 @@
+.bolder {
+    font-weight: bold;
+}
+.left {
+    text-align: right;
+}
+
+.jiujitsu {
+    top: 600px;
+    right: 500px;
+    width: 80px;
+    position: absolute;
+}
+
+.paintball {
+    top: 870px;
+    right: 520px;
+    width: 80px;
+    position: absolute;
+}
+
+.surfing {
+    top: 880px;
+    right: 1000px;
+    width: 50px;
+    position: absolute;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+.disappear {
+    position: absolute;
+}
+
+.centervid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.common{
+    position: absolute;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: black;
+    text-align: center;
+    position: fixed;
+}
+
+.style1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.noline {
+    text-decoration: none;
+}
+
+.style3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.style4 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.style5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
